@@ -3,5 +3,5 @@ services:
     image: myimage:latest
     container_name: apache1
     ports:
-        -  "8081:8080"
+        -  "80:80"
         
